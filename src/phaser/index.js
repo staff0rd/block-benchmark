@@ -35,7 +35,7 @@ function appendStats() {
 }
 
 function update() {
-    group.x--;
+    group.x-=3;
 }
 
 var bmd;
